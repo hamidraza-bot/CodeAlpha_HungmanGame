@@ -1,0 +1,3 @@
+# Optional: colored terminal output.
+# The game runs fine without it (falls back to plain text).
+colorama>=0.4.6
